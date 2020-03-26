@@ -1,0 +1,8 @@
+menu_style.scss:
+
+sass --watch "D:\Projects\Smart World Academy\SWA-first-task\faq-page\scss\menu_style.scss":"D:\Projects\Smart World Academy\SWA-first-task\faq-page\css\menu_style.css"
+
+
+faq_style.scss:
+
+sass --watch "D:\Projects\Smart World Academy\SWA-first-task\faq-page\scss\faq_style.scss":"D:\Projects\Smart World Academy\SWA-first-task\faq-page\css\faq_style.css"

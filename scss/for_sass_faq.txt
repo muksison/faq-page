@@ -1,2 +1,0 @@
-D:\Projects\Smart World Academy\SWA-first-task\faq-page\scss>
-sass --watch "D:\Projects\Smart World Academy\SWA-first-task\faq-page\scss\faq_style.scss":"D:\Projects\Smart World Academy\SWA-first-task\faq-page\css\faq_style.css"

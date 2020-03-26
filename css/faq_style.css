@@ -223,7 +223,9 @@ a {
     align-items: center;
     margin-bottom: 30px; }
     .s1__content__title {
-      text-align: center; }
+      text-align: center;
+      margin-right: 0;
+      margin-left: 0; }
 
   .s2__container {
     flex-wrap: wrap; }
